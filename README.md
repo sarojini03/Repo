@@ -25,7 +25,7 @@ The project structure is as follows:
     - main.css: The main CSS file that styles the application.
 
 Installation
-1. Clone the repository: git clone https://github.com/your-username/Task-Master.git
+1. Clone the repository: git clone (https://github.com/sarojini03/Repo/tree/main)
 2. Navigate to the project directory: cd Task-Master
 3. Install the required packages: pip install flask flask-sqlalchemy
 4. Run the application: python app.py
